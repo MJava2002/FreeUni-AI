@@ -35,11 +35,6 @@ For more information about the course, visit the [Berkeley University CS188 cour
 ### Project 5: Deep Learning
 - [Project 5](Project5): Description of the project.
 
-### Project 6: Natural Language Processing
-- [Project 6](Project6): Description of the project.
-
-### Project 7: Robotics
-- [Project 7](Project7): Description of the project.
 
 ## Resources
 - [Course Lectures](http://ai.berkeley.edu/lecture_videos.html)
